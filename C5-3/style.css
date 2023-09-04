@@ -1,0 +1,33 @@
+body {
+	font-family: OpenSans, Helvetica, Arial, sans-serif;
+}
+
+.wrapper{
+  text-align: right;
+}
+.inputs{
+  padding: 10px;
+  margin: 15px auto;
+  max-width: 40;
+}
+.btn{
+  height: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.btn:hover{
+  background-color: lightblue;
+}
+.result{
+  margin-top: 15px;
+}
+.card {
+  width: 200px;
+  margin: 20px;
+}
+
+.card-image {
+  display: block;
+  width: 200px;
+  height: 150px;
+}

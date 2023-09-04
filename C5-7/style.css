@@ -1,0 +1,30 @@
+body {
+  font-family: OpenSans, Helvetica, Arial, sans-serif;
+}
+
+.inputs{
+	min-height: 30px;
+	padding-top: 10px;
+}
+.btn{
+	height: 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	min-width: 60px;
+}
+
+.result{
+	min-height: 200px;
+	display: flex;
+ 	flex-wrap: wrap;
+}
+.card {
+    width: 200px;
+    margin: 20px;
+}
+
+.card-image {
+    display: block;
+    width: 200px;
+    height: 150px;
+}

@@ -1,0 +1,17 @@
+body {
+	font-family: OpenSans, Helvetica, Arial, sans-serif;
+}
+
+.wrapper{
+	text-align: left;
+}
+.inputs{
+	max-width: 500px;
+	min-height: 30px;
+}
+.btn{
+	height: 20x;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
